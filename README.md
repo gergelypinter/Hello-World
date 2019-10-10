@@ -1,3 +1,3 @@
 # Hello-World
 
-az elso commitom ez lesz
+az masodik commitom ez lesz
